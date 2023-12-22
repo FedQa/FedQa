@@ -1,5 +1,6 @@
-![image](https://github.com/FedQa/FedQa/assets/63184742/43ef29b1-94c8-4f46-9a2d-87158f9c2b90)
-
+<div align="center">
+  <img src="https://i.pinimg.com/564x/d4/84/dc/d484dce1fa2f8b85625d6de19354020e.jpg" alt="background" />
+</div>
 
 
 <h1 align="center">Hi 👋, I'm Fedor Rudnik</h1>
