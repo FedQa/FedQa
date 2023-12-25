@@ -8,11 +8,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fedqa&label=Profile%20views&color=0e75b6&style=flat" alt="fedqa" /> </p>
 
-- 🌱 I’m currently learning **React, TypeScript**
+### 🌱 I’m currently learning **React, TypeScript**
 
 ---
 
-- 📫 Social media
+### 📫 Social media
 
 <div>
   <a href="https://t.me/fedqa" target="_blank">
