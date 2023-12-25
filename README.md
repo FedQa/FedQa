@@ -41,9 +41,10 @@
 
 ---
 
-
+<div id="dashboard">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fedqa&show_icons=true&locale=en&layout=compact" alt="fedqa" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fedqa&show_icons=true&locale=en" alt="fedqa" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fedqa&" alt="fedqa" /></p>
+</div>
