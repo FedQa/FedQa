@@ -38,13 +38,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
   <img src="https://static-00.iconduck.com/assets.00/mobx-icon-1024x1024-c9qpjcmj.png" title="mobx" alt"mobx" width="40" height="40"/>&nbsp;
 </div>
-
----
-
-<div id="dashboard">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fedqa&show_icons=true&locale=en&layout=compact" alt="fedqa" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fedqa&show_icons=true&locale=en" alt="fedqa" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fedqa&" alt="fedqa" /></p>
-</div>
